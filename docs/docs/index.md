@@ -1,7 +1,5 @@
 [![Build Status](https://travis-ci.org/Samuel-Oliveira/Java_CTe.svg?branch=master)](https://travis-ci.org/Samuel-Oliveira/Java_CTe) [![MIT License](https://img.shields.io/github/license/Samuel-Oliveira/Java_CTe.svg) ](https://github.com/Samuel-Oliveira/Java_CTe/blob/master/LICENSE) [![Maven Central](https://img.shields.io/maven-central/v/br.com.swconsultoria/java-cte.svg?label=Maven%20Central)](https://search.maven.org/artifact/br.com.swconsultoria/java-cte/3.00.8/jar) [![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/Samuel-Oliveira/Java_CTe.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Samuel-Oliveira/Java_CTe/context:java) [![Total alerts](https://img.shields.io/lgtm/alerts/g/Samuel-Oliveira/Java_CTe.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Samuel-Oliveira/Java_CTe/alerts/)
 
-Meu nome é Samuel Oliveira, sou desenvolvedor Java a 7 Anos e atualmente trabalho como Gerente de Projetos em uma Software House. Trabalho com NFE desde 2012 e criei o Java-Nfe com o objetivo de ajudar a comunidade no envio e geração da Nota fiscal Eletrônica. Agora Crio o Java-Cte/MDFe com o mesmo Objetivo.
-
 ***API Java para consumo do WebService de CTe***
 
 ## Dúvidas, Sugestões ou Consultoria 
