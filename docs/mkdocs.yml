@@ -2,9 +2,9 @@
 
 site_name: Java CTe
 site_description: Projeto para consumo do webservice de CTe 
-site_url: https://rodrigocananea.github.io/javafx-splash-demo/
+site_url: https://rodrigocananea.github.io/mkdocs-testes/
 
-repo_url: https://github.com/rodrigocananea/javafx-splash-demo
+repo_url: https://github.com/rodrigocananea/mkdocs-testes
 edit_uri: edit/master/docs/docs
 
 ### Build settings ###
