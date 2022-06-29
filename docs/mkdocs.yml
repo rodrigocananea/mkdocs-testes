@@ -1,10 +1,10 @@
 ### Site metadata ###
  
-site_name: Java Certificado
-site_description: Projeto para Gerenciamentos de Certificado Digital
-site_url: https://Samuel-Oliveira.github.io/Java_Certificado/
+site_name: Java NFe
+site_description: Biblioteca Java para consumo do WebService de NFe/NFCe
+site_url: https://Samuel-Oliveira.github.io/Java_NFe/
 
-repo_url: https://github.com/Samuel-Oliveira/Java_Certificado
+repo_url: https://github.com/Samuel-Oliveira/Java_NFe
 edit_uri: edit/master/docs/docs
 
 ### Build settings ###
