@@ -1,10 +1,10 @@
 ### Site metadata ###
+ 
+site_name: Java Certificado
+site_description: Projeto para Gerenciamentos de Certificado Digital
+site_url: https://Samuel-Oliveira.github.io/Java_Certificado/
 
-site_name: Java CTe
-site_description: Projeto para consumo do webservice de CTe 
-site_url: https://rodrigocananea.github.io/mkdocs-testes/
-
-repo_url: https://github.com/rodrigocananea/mkdocs-testes
+repo_url: https://github.com/Samuel-Oliveira/Java_Certificado
 edit_uri: edit/master/docs/docs
 
 ### Build settings ###
@@ -18,7 +18,6 @@ markdown_extensions:
 theme:
   name: material
   language: pt-BR
-  scheme: slate
   features:
     - navigation.tracking
     - navigation.expand
@@ -38,15 +37,10 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-
 nav:
   - Inicio: index.md
   - Exemplos:
-      - Configurações (certificado): tutorial/configuracoes.md
-      - Envio: tutorial/envio.md
-      - Cancelamento: tutorial/cancelamento.md
-      - Inutilização: tutorial/inutilizacao.md
-      - Consulta Situação: tutorial/consulta-situacao.md
-      - Carta de Correção Eletrônica: tutorial/carta-correcao.md
-      - Status de Serviço Sefaz: tutorial/status-servico.md
-      - Baixar Documento: tutorial/baixar-documento.md
+      - Certificados A1: tutorial/certificado-a1.md
+      - Certificados A3: tutorial/certificado-a3.md
+      - Repositórios: tutorial/repositorios.md
+      - Certificado por CNPJ/CPF: tutorial/certificado-por-cnpjcpf.md
